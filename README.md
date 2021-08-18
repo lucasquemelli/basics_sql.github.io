@@ -54,3 +54,7 @@ Cláudia Morais (00236) recebeu aumento e sua comissão passou a ser de 11%. Jos
 O vendedor José Geraldo da Fonseca Junior matrícula (00233) foi demitido. Por isso, o seu nome foi retirado:
 
 ![image](https://user-images.githubusercontent.com/81119854/129982904-ee7d7183-0691-4607-99b5-8f4b57935b81.png)
+
+# Adicionar chave primária
+
+![image](https://user-images.githubusercontent.com/81119854/129984580-0c0e9aac-8bca-42b1-8636-e63018a7e556.png)
