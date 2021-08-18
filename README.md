@@ -46,3 +46,11 @@ Recebemos a seguinte informação:
 Cláudia Morais (00236) recebeu aumento e sua comissão passou a ser de 11%. José Geraldo da Fonseca (00233) reclamou que seu nome real é José Geraldo da Fonseca Junior. Para alterar, fazemos:
 
 ![image](https://user-images.githubusercontent.com/81119854/129963894-3a56f638-7750-4ce1-871e-bf51ceeb15df.png)
+
+# Excluir registros
+
+![image](https://user-images.githubusercontent.com/81119854/129982601-438ed6a0-3e07-4120-85ad-b6f50cbdf34c.png)
+
+O vendedor José Geraldo da Fonseca Junior matrícula (00233) foi demitido. Por isso, o seu nome foi retirado:
+
+![image](https://user-images.githubusercontent.com/81119854/129982904-ee7d7183-0691-4607-99b5-8f4b57935b81.png)
