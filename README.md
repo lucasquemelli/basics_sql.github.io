@@ -29,3 +29,4 @@ Para apagar uma tabela, eu posso usar o assistente ou apagar por comandos:
 
 ![image](https://user-images.githubusercontent.com/81119854/129958085-f0af3238-813a-4276-8ca6-080e0a058a5a.png)
 
+![image](https://user-images.githubusercontent.com/81119854/129958921-df6ecb53-b66f-4e76-9a72-819dc4cf3c3f.png)
