@@ -17,7 +17,7 @@ Para apagar uma tabela, eu posso usar o assistente ou apagar por comandos:
 
 ![image](https://user-images.githubusercontent.com/81119854/129913094-09af1c9b-b8ee-4e07-a784-beabcc0610de.png)
 
-# Inserir dados individuais em tabelas
+# Inserir registros individuais em tabelas
 
 ![image](https://user-images.githubusercontent.com/81119854/129938561-2b236f29-f471-4b0c-9c34-a0929ded3871.png)
 
