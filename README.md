@@ -40,3 +40,9 @@ Vou incluir dois códigos de inserção com registros errados propositadamente:
 Para alterar os registros (com base no arquivo .csv que tenho), eu faço:
 
 ![image](https://user-images.githubusercontent.com/81119854/129963012-3cb47677-4ef6-41d9-9c42-508afcb96bf2.png)
+
+Recebemos a seguinte informação:
+
+Cláudia Morais (00236) recebeu aumento e sua comissão passou a ser de 11%. José Geraldo da Fonseca (00233) reclamou que seu nome real é José Geraldo da Fonseca Junior. Para alterar, fazemos:
+
+![image](https://user-images.githubusercontent.com/81119854/129963894-3a56f638-7750-4ce1-871e-bf51ceeb15df.png)
