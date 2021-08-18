@@ -30,3 +30,13 @@ Para apagar uma tabela, eu posso usar o assistente ou apagar por comandos:
 ![image](https://user-images.githubusercontent.com/81119854/129958085-f0af3238-813a-4276-8ca6-080e0a058a5a.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/129958921-df6ecb53-b66f-4e76-9a72-819dc4cf3c3f.png)
+
+# Alterar registros
+
+Vou incluir dois códigos de inserção com registros errados propositadamente:
+
+![image](https://user-images.githubusercontent.com/81119854/129962884-96b47b8e-7a38-42c0-a008-7cec25e5b903.png)
+
+Para alterar os registros (com base no arquivo .csv que tenho), eu faço:
+
+![image](https://user-images.githubusercontent.com/81119854/129963012-3cb47677-4ef6-41d9-9c42-508afcb96bf2.png)
