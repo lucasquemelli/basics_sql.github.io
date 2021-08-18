@@ -1,7 +1,7 @@
 # basics_sql.github.io
 Este repositório é para depositar comandos básicos da linguagem SQL. 
 
-# Criar tabelas no MySQL
+# Criar e apagar tabelas no MySQL
 
 ![image](https://user-images.githubusercontent.com/81119854/129900148-7dfe94d7-9392-4aa8-b0ca-71239912fcaa.png)
 
@@ -13,3 +13,6 @@ Nome da tabela deve ser TABELA_DE_VENDEDORES. O vendedor tem o número interno d
 
 ![image](https://user-images.githubusercontent.com/81119854/129902104-b8804ea7-5b24-4acb-af19-5e9f3b725af0.png)
 
+Para apagar uma tabela, eu posso usar o assistente ou apagar por comandos:
+
+![image](https://user-images.githubusercontent.com/81119854/129913094-09af1c9b-b8ee-4e07-a784-beabcc0610de.png)
