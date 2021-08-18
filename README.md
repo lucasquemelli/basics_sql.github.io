@@ -55,6 +55,11 @@ O vendedor José Geraldo da Fonseca Junior matrícula (00233) foi demitido. Por 
 
 ![image](https://user-images.githubusercontent.com/81119854/129982904-ee7d7183-0691-4607-99b5-8f4b57935b81.png)
 
-# Adicionar chave primária
+# Adicionar chave primária e manipular dados
 
 ![image](https://user-images.githubusercontent.com/81119854/129984580-0c0e9aac-8bca-42b1-8636-e63018a7e556.png)
+
+Adição de chave primária, adição de coluna e inserção de registros:
+
+![image](https://user-images.githubusercontent.com/81119854/129986741-2c638961-6ece-451c-bce4-cec221b3462f.png)
+
