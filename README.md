@@ -63,3 +63,16 @@ Adição de chave primária, adição de coluna e inserção de registros:
 
 ![image](https://user-images.githubusercontent.com/81119854/129986741-2c638961-6ece-451c-bce4-cec221b3462f.png)
 
+Exercícios:
+
+Incluir novos campos na tabela de vendedores: data de admissão e se está ou não de férias. Além disso, adicionar uma chave primária.
+
+![image](https://user-images.githubusercontent.com/81119854/129987962-0fe88182-ea74-452f-8ac7-5509a934a8ae.png)
+
+Inserir registros e alterar outros já existentes:
+
+![image](https://user-images.githubusercontent.com/81119854/129989251-9e7fe016-a973-45c4-aa1d-32353a754c9c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129989308-94be3c82-f2dd-45f4-95d4-e0c7a3a155c3.png)
+
+
