@@ -81,3 +81,8 @@ Eu posso tanto selecionar todos os campos quanto apenas campos específicos (nã
 
 ![image](https://user-images.githubusercontent.com/81119854/130158138-46c1f789-1378-4572-b4f1-8a3b6f3c380e.png)
 
+Eu posso limitar o número de registros de saída utilizando 'LIMIT':
+
+![image](https://user-images.githubusercontent.com/81119854/130158353-f501acb0-b1bc-4e42-8127-358251fdbf8f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130158374-e0f6c1d1-45ee-4702-862d-9542ed333a95.png)
