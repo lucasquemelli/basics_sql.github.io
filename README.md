@@ -87,5 +87,9 @@ Eu posso limitar o número de registros de saída utilizando 'LIMIT':
 
 ![image](https://user-images.githubusercontent.com/81119854/130158374-e0f6c1d1-45ee-4702-862d-9542ed333a95.png)
 
-Eu posso usar um nome fantasia quando selecionar campos da minha tabela:
+Eu posso usar um nome fantasia (ALIAS) quando selecionar campos da minha tabela:
+
+![image](https://user-images.githubusercontent.com/81119854/130158750-b7513e82-6510-4ef0-9d30-16c044cec276.png)
+
+Os alias substituem os nome originais com intenção de facilitar a leitura dos dados. 
 
