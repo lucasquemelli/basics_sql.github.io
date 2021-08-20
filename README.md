@@ -180,3 +180,12 @@ Uma forma que o MySQL permite de selecionar um ponto flutuante do tipo float é 
 Exercício: Veja quais são os vendedores que possuem comissão maior que 10%.
 
 ![image](https://user-images.githubusercontent.com/81119854/130243795-2c32aba1-f9a5-44a9-b923-364d8303ba6c.png)
+
+Nós também podemos filtrar por datas. Vejamos a data de nascimento na tabela de clientes e vamos selecionar um campo:
+
+![image](https://user-images.githubusercontent.com/81119854/130261947-290ad1c7-cf33-4d79-bab7-fb2d92e53b1e.png)
+
+Agora, vamos usar o filtro:
+
+![image](https://user-images.githubusercontent.com/81119854/130262090-eee4a6af-977b-49e8-9050-b5ebefcc3a4f.png)
+
