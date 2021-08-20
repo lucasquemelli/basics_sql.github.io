@@ -207,3 +207,6 @@ Exercício: Veja quais são os vendedores que foram admitidos na empresa a parti
 
 ![image](https://user-images.githubusercontent.com/81119854/130264087-3784763b-8a5e-4023-a32f-63f402e73478.png)
 
+Podemos utilizar filtros compostos:
+
+![image](https://user-images.githubusercontent.com/81119854/130265827-311d5000-5078-4cca-83b2-aa7410ed2382.png)
