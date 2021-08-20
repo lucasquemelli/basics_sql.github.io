@@ -195,7 +195,7 @@ Também podemos filtrar valores maiores ou menores que uma determinada data:
 
 Podemos utilizar os símbolos menor/maior ou igual também. O resultado inclui a data que selecionarmos.
 
-Se quisermos, podemos filtrar apenas pelo ano de uma data. Para tanto, fazemos:
+Se quisermos, podemos filtrar apenas pelo ano de uma data. Contudo, o resultado da função deve ser um número inteiro. Para tanto, fazemos:
 
 ![image](https://user-images.githubusercontent.com/81119854/130262982-1a11afb8-d955-47dc-bc35-0bb1cd90e5a1.png)
 
