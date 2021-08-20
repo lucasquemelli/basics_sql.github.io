@@ -1,4 +1,4 @@
-# basics_sql.github.io
+# introducao_sql.github.io
 Este repositório é para depositar comandos básicos da linguagem SQL. 
 
 # Criar e apagar tabelas no MySQL
