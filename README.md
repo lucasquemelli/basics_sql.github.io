@@ -133,3 +133,4 @@ Não precisamos selecionar campos apenas utilizando o sinal de igualdade. Podemo
 
 ![image](https://user-images.githubusercontent.com/81119854/130237224-1233bcc1-2228-434a-a13f-6d0ccc2abcbb.png)
 
+![image](https://user-images.githubusercontent.com/81119854/130237389-08034105-6386-4b2c-b721-9d7f4e000907.png)
