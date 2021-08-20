@@ -151,7 +151,7 @@ Se eu utilizar o sinal de maior ou igual, o próprio Fernando entra no filtro:
 
 Se utilizarmos o símbolo '<>', virá todos os nomes com exceção de Fernando.
 
-Para filtrar utilizando um número com casas decimais, o ideal é que utilizar o tipo "decimal", porque ao utilizar o tipo "float", a busca não é efetuada. Por exemplo, para filtrar utilizando a variável "PRECO_LISTA" com valor de 16.008, conforme figura abaixo
+Para filtrar utilizando um número com casas decimais (ponto flutuante), o ideal é que utilizar o tipo "decimal", porque ao utilizar o tipo "float", a busca não é efetuada. Por exemplo, para filtrar utilizando a variável "PRECO_LISTA" com valor de 16.008, conforme figura abaixo
 
 ![image](https://user-images.githubusercontent.com/81119854/130240951-f76785a7-d238-4aab-9848-cc9a6d294f4c.png)
 
