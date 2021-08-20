@@ -144,3 +144,7 @@ Também podemos utilizar o sinal de inequidade para selecionar strings. A lingua
 ![image](https://user-images.githubusercontent.com/81119854/130238775-7974547f-ba06-402b-a62c-af73b452be4c.png)
 
 Na ordenazação alfabética, o critério é a comparação das primeiras letras dos nomes. Caso as letras de uma posição sejam iguais, o critério de comparação passa a ser a próxima letra. Por exemplo, caso o nome "Fernando" fosse comparado com "Fátima", o nome Fátima não entraria no critério acima dado que, por essa ordenação, 'Fe' > 'Fa.
+
+Se eu utilizar o sinal de maior ou igual, o próprio Fernando entra no filtro:
+
+![image](https://user-images.githubusercontent.com/81119854/130239487-d9e20815-ebb7-435a-b59f-60752d845ad5.png)
