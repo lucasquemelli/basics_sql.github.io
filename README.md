@@ -161,6 +161,8 @@ podemos utilizar o comando:
 
 Mas nenhum resultado é apresentado porque essa variável é do tipo 'float':
 
-![image](https://user-images.githubusercontent.com/81119854/130241241-f5efe30b-2bdd-49eb-97b9-c49357e2cb8a.png)
+![image](https://user-images.githubusercontent.com/81119854/130241346-bbca4d8c-046c-4f96-9e8e-137a5a71675e.png)
+
+
 
 
