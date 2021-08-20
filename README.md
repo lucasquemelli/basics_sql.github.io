@@ -75,6 +75,8 @@ Inserir registros e alterar outros já existentes:
 
 ![image](https://user-images.githubusercontent.com/81119854/129989308-94be3c82-f2dd-45f4-95d4-e0c7a3a155c3.png)
 
+# Selecionar campos das tabelas
+
 Eu posso tanto selecionar todos os campos quanto apenas campos específicos (não todos ao mesmo tempo):
 
 ![image](https://user-images.githubusercontent.com/81119854/130158114-10065734-7ed8-4f5b-b8a1-cf7bbec95f0e.png)
