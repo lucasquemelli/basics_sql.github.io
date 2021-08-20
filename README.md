@@ -199,3 +199,6 @@ Se quisermos, podemos filtrar apenas pelo ano de uma data. Contudo, o resultado 
 
 ![image](https://user-images.githubusercontent.com/81119854/130262982-1a11afb8-d955-47dc-bc35-0bb1cd90e5a1.png)
 
+Podemos também filtrar pelo mês de nascimento:
+
+![image](https://user-images.githubusercontent.com/81119854/130263386-29335857-c829-44f0-b9db-5cabd6ae30c3.png)
