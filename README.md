@@ -139,3 +139,6 @@ Se quisermos selecionar os clientes da tabela de vendedores que não tem 22 anos
 
 ![image](https://user-images.githubusercontent.com/81119854/130237658-ea2bf45c-1127-476f-92b5-bf43518cca0a.png)
 
+Também podemos utilizar o sinal de inequidade para selecionar strings. A linguagem SQL utiliza ordem alfabética para fazer a seleção:
+
+![image](https://user-images.githubusercontent.com/81119854/130238775-7974547f-ba06-402b-a62c-af73b452be4c.png)
