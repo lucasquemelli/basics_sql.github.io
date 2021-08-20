@@ -108,3 +108,7 @@ Exercício: Selecione NOME e MATRÍCULA da tabela de vendedores.
 Podemos filtrar pelo comando WHERE:
 
 ![image](https://user-images.githubusercontent.com/81119854/130232193-0240fb93-3f97-4aea-a0d7-b1c949db3b07.png)
+
+O campo selecionado acima foi o da chave primária. Entretanto, podemos selecionar outros campos:
+
+![image](https://user-images.githubusercontent.com/81119854/130232916-a1d3e9ec-7a13-4570-9a9a-c271c4164864.png)
