@@ -98,3 +98,7 @@ Os alias substituem os nome originais com intenção de facilitar a leitura dos 
 Eu não preciso selecionar os campos na ordem original. Eu posso escolher qualquer ordem:
 
 ![image](https://user-images.githubusercontent.com/81119854/130158992-3adfa668-4f0e-4e9a-bae6-9256e5753498.png)
+
+Exercício: Selecione NOME e MATRÍCULA da tabela de vendedores.
+
+![image](https://user-images.githubusercontent.com/81119854/130159257-201096de-e589-4d13-9aa0-119a3f37adbb.png)
