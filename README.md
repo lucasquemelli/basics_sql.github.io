@@ -93,3 +93,6 @@ Eu posso usar um nome fantasia (ALIAS) quando selecionar campos da minha tabela:
 
 Os alias substituem os nome originais com intenção de facilitar a leitura dos dados. 
 
+Eu não preciso selecionar os campos na ordem original. Eu posso escolher qualquer ordem:
+
+![image](https://user-images.githubusercontent.com/81119854/130158992-3adfa668-4f0e-4e9a-bae6-9256e5753498.png)
