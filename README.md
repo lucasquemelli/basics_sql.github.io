@@ -189,3 +189,6 @@ Agora, vamos usar o filtro:
 
 ![image](https://user-images.githubusercontent.com/81119854/130262090-eee4a6af-977b-49e8-9050-b5ebefcc3a4f.png)
 
+Também podemos filtrar valores maiores ou menores que uma determinada data:
+
+![image](https://user-images.githubusercontent.com/81119854/130262395-c2cb17cf-967a-41b4-bc20-baf135991936.png)
