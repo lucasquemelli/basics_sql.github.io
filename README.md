@@ -105,4 +105,6 @@ Exercício: Selecione NOME e MATRÍCULA da tabela de vendedores.
 
 # Filtrando registros
 
+Podemos filtrar pelo comando WHERE:
+
 ![image](https://user-images.githubusercontent.com/81119854/130232193-0240fb93-3f97-4aea-a0d7-b1c949db3b07.png)
