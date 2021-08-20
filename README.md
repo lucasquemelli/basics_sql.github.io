@@ -216,3 +216,8 @@ Podemos utilizar filtros compostos:
 Podemos filtrar por mais de um campo também:
 
 ![image](https://user-images.githubusercontent.com/81119854/130266717-a0f97243-9761-4b2c-95d0-ee386107a4bf.png)
+
+Podemos filtrar clientes que moram na cidade do Rio de Janeiro ou no bairro de Jardins em São Paulo. Para tanto, fazemos:
+
+![image](https://user-images.githubusercontent.com/81119854/130267404-5abda9aa-6a7a-457c-9bea-cb691035a1a6.png)
+
