@@ -135,7 +135,7 @@ Não precisamos selecionar campos apenas utilizando o sinal de igualdade. Podemo
 
 ![image](https://user-images.githubusercontent.com/81119854/130237389-08034105-6386-4b2c-b721-9d7f4e000907.png)
 
-Se quisermos selecionar os clientes da tabela de vendedores que não tem 22 anos, usamos o símbolo de 'exceto', que é representado por '<>':
+Se quisermos selecionar os clientes da tabela de vendedores que não tem 22 anos, usamos o símbolo de 'exceto/diferente', que é representado por '<>':
 
 ![image](https://user-images.githubusercontent.com/81119854/130237658-ea2bf45c-1127-476f-92b5-bf43518cca0a.png)
 
@@ -148,3 +148,19 @@ Na ordenazação alfabética, o critério é a comparação das primeiras letras
 Se eu utilizar o sinal de maior ou igual, o próprio Fernando entra no filtro:
 
 ![image](https://user-images.githubusercontent.com/81119854/130239487-d9e20815-ebb7-435a-b59f-60752d845ad5.png)
+
+Se utilizarmos o símbolo '<>', virá todos os nomes com exceção de Fernando.
+
+Para filtrar utilizando um número com casas decimais, o ideal é que utilizar o tipo "decimal", porque ao utilizar o tipo "float", a busca não é efetuada. Por exemplo, para filtrar utilizando a variável "PRECO_LISTA" com valor de 16.008, conforme figura abaixo
+
+![image](https://user-images.githubusercontent.com/81119854/130240951-f76785a7-d238-4aab-9848-cc9a6d294f4c.png)
+
+podemos utilizar o comando:
+
+![image](https://user-images.githubusercontent.com/81119854/130241101-4c90ed25-75f9-4f41-b172-4f6021c3a62c.png)
+
+Mas nenhum resultado é apresentado porque essa variável é do tipo 'float':
+
+![image](https://user-images.githubusercontent.com/81119854/130241241-f5efe30b-2bdd-49eb-97b9-c49357e2cb8a.png)
+
+
