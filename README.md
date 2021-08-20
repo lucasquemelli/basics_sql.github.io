@@ -163,6 +163,18 @@ Mas nenhum resultado é apresentado porque essa variável é do tipo 'float':
 
 ![image](https://user-images.githubusercontent.com/81119854/130241346-bbca4d8c-046c-4f96-9e8e-137a5a71675e.png)
 
+Contudo, podemos utilizar os sinais ">" e "<":
 
+![image](https://user-images.githubusercontent.com/81119854/130241741-de460ddc-be8a-4c1c-bbb8-da16795aefd7.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130241807-3dc66f9b-713b-46d3-9a72-f22d0bd998ee.png)
+
+Também podemos utilizar os símbolos ">=" ou "<=":
+
+![image](https://user-images.githubusercontent.com/81119854/130241922-759e614e-d3c2-4e09-9f45-d9a1f6d788b3.png)
+
+Assim como podemos utilizar o símbolo de diferente:
+
+![image](https://user-images.githubusercontent.com/81119854/130242035-f3a3c76f-2c1c-44df-ad01-c7d18dd6e649.png)
 
 
