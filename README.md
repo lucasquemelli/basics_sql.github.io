@@ -210,3 +210,9 @@ Exercício: Veja quais são os vendedores que foram admitidos na empresa a parti
 Podemos utilizar filtros compostos:
 
 ![image](https://user-images.githubusercontent.com/81119854/130265827-311d5000-5078-4cca-83b2-aa7410ed2382.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130266411-a7fed65a-9836-4791-a080-4e9b5a6e290a.png)
+
+Podemos filtrar por mais de um campo também:
+
+![image](https://user-images.githubusercontent.com/81119854/130266717-a0f97243-9761-4b2c-95d0-ee386107a4bf.png)
