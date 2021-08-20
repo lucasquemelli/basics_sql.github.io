@@ -202,3 +202,7 @@ Se quisermos, podemos filtrar apenas pelo ano de uma data. Contudo, o resultado 
 Podemos também filtrar pelo mês de nascimento:
 
 ![image](https://user-images.githubusercontent.com/81119854/130263386-29335857-c829-44f0-b9db-5cabd6ae30c3.png)
+
+Exercício: Veja quais são os vendedores que foram admitidos na empresa a partir de 2016.
+
+![image](https://user-images.githubusercontent.com/81119854/130263949-38f68376-55cb-4aaa-a2ba-f406f2103a7b.png)
