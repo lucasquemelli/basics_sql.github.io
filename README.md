@@ -126,3 +126,10 @@ Verificando os cadastros da vendedora Cláudia:
 ![image](https://user-images.githubusercontent.com/81119854/130235060-afee9150-d4fe-4610-b7b6-a1d63b37bed4.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/130235162-4d3864b2-d18c-405f-8db7-9f575b4fdb7a.png)
+
+Não precisamos selecionar campos apenas utilizando o sinal de igualdade. Podemos usar inequidades, tais como:
+
+![image](https://user-images.githubusercontent.com/81119854/130237151-c8e03953-0dfa-4e06-b2cc-c81fd9a06f8c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130237224-1233bcc1-2228-434a-a13f-6d0ccc2abcbb.png)
+
