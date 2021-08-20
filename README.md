@@ -176,3 +176,7 @@ Os símbolos ">=", "<=" e "<>" podem ser utilizados, mas o resultado não obedec
 Uma forma que o MySQL permite de selecionar um ponto flutuante do tipo float é usando o comando BETWEEN:
 
 ![image](https://user-images.githubusercontent.com/81119854/130242902-8dc5b180-5a65-4a9d-b187-51bff6cb20af.png)
+
+Exercício: Veja quais são os vendedores que possuem comissão maior que 10%.
+
+![image](https://user-images.githubusercontent.com/81119854/130243795-2c32aba1-f9a5-44a9-b923-364d8303ba6c.png)
