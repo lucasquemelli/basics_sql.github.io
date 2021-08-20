@@ -173,6 +173,6 @@ Os símbolos ">=", "<=" e "<>" podem ser utilizados, mas o resultado não obedec
 
 ![image](https://user-images.githubusercontent.com/81119854/130242567-492e4771-63cb-4b5b-a9bc-3de08aa293e1.png)
 
-Uma forma que a linguagem SQL permite de selecionar um ponto flutuante do tipo float é usando o comando BETWEEN:
+Uma forma que o MySQL permite de selecionar um ponto flutuante do tipo float é usando o comando BETWEEN:
 
 ![image](https://user-images.githubusercontent.com/81119854/130242902-8dc5b180-5a65-4a9d-b187-51bff6cb20af.png)
