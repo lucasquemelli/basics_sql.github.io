@@ -205,4 +205,5 @@ Podemos também filtrar pelo mês de nascimento:
 
 Exercício: Veja quais são os vendedores que foram admitidos na empresa a partir de 2016.
 
-![image](https://user-images.githubusercontent.com/81119854/130263949-38f68376-55cb-4aaa-a2ba-f406f2103a7b.png)
+![image](https://user-images.githubusercontent.com/81119854/130264087-3784763b-8a5e-4023-a32f-63f402e73478.png)
+
