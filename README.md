@@ -112,3 +112,11 @@ Podemos filtrar pelo comando WHERE:
 O campo selecionado acima foi o da chave primária. Entretanto, podemos selecionar outros campos:
 
 ![image](https://user-images.githubusercontent.com/81119854/130232916-a1d3e9ec-7a13-4570-9a9a-c271c4164864.png)
+
+O comando WHERE vale para UPDATE e DELETE também. Por exemplo, vamos selecionar a tabela de produtos onde o sabor seja limão:
+
+![image](https://user-images.githubusercontent.com/81119854/130233952-86cf3f9a-0577-4fd0-b22a-ffbaf486e81d.png)
+
+Podemos atualizar o sabor 'Limão' para 'Cítricos':
+
+![image](https://user-images.githubusercontent.com/81119854/130234359-e7d57a5a-e534-4667-b179-2e4d1c241db8.png)
