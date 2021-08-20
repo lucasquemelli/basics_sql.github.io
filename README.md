@@ -169,12 +169,9 @@ Contudo, podemos utilizar os sinais ">" e "<":
 
 ![image](https://user-images.githubusercontent.com/81119854/130241807-3dc66f9b-713b-46d3-9a72-f22d0bd998ee.png)
 
-Também podemos utilizar os símbolos ">=" ou "<=":
+Os símbolos ">=", "<=" e "<>" podem ser utilizados, mas o resultado não obedece à restrição porque também incluir o valor da restrição:
 
-![image](https://user-images.githubusercontent.com/81119854/130241922-759e614e-d3c2-4e09-9f45-d9a1f6d788b3.png)
+![image](https://user-images.githubusercontent.com/81119854/130242567-492e4771-63cb-4b5b-a9bc-3de08aa293e1.png)
 
-Assim como podemos utilizar o símbolo de diferente:
-
-![image](https://user-images.githubusercontent.com/81119854/130242035-f3a3c76f-2c1c-44df-ad01-c7d18dd6e649.png)
 
 
