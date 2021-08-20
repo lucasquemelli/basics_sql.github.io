@@ -102,3 +102,7 @@ Eu não preciso selecionar os campos na ordem original. Eu posso escolher qualqu
 Exercício: Selecione NOME e MATRÍCULA da tabela de vendedores.
 
 ![image](https://user-images.githubusercontent.com/81119854/130159257-201096de-e589-4d13-9aa0-119a3f37adbb.png)
+
+# Filtrando registros
+
+![image](https://user-images.githubusercontent.com/81119854/130232193-0240fb93-3f97-4aea-a0d7-b1c949db3b07.png)
