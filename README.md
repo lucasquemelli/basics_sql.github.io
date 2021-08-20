@@ -120,3 +120,9 @@ O comando WHERE vale para UPDATE e DELETE também. Por exemplo, vamos selecionar
 Podemos atualizar o sabor 'Limão' para 'Cítricos':
 
 ![image](https://user-images.githubusercontent.com/81119854/130234359-e7d57a5a-e534-4667-b179-2e4d1c241db8.png)
+
+Verificando os cadastros da vendedora Cláudia:
+
+![image](https://user-images.githubusercontent.com/81119854/130235060-afee9150-d4fe-4610-b7b6-a1d63b37bed4.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130235162-4d3864b2-d18c-405f-8db7-9f575b4fdb7a.png)
