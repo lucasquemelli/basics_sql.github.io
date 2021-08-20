@@ -224,3 +224,7 @@ Podemos filtrar clientes que moram na cidade do Rio de Janeiro ou no bairro de J
 Podemos buscar por uma faixa de idades e por sexo ao mesmo tempo ou por localização:
 
 ![image](https://user-images.githubusercontent.com/81119854/130268557-a239392c-071c-41fa-8734-541359d1e201.png)
+
+Exercício: Veja quais são os vendedores que estão de férias e que foram admitidos antes de 2016.
+
+![image](https://user-images.githubusercontent.com/81119854/130269095-a9149994-da2f-48a7-bafb-f699be2fb038.png)
