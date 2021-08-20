@@ -221,3 +221,6 @@ Podemos filtrar clientes que moram na cidade do Rio de Janeiro ou no bairro de J
 
 ![image](https://user-images.githubusercontent.com/81119854/130267404-5abda9aa-6a7a-457c-9bea-cb691035a1a6.png)
 
+Podemos buscar por uma faixa de idades e por sexo ao mesmo tempo ou por localização:
+
+![image](https://user-images.githubusercontent.com/81119854/130268557-a239392c-071c-41fa-8734-541359d1e201.png)
